@@ -1,5 +1,5 @@
 # Ứng dụng-IOT-điều khiển-thiết bị-trong-thời gian-thực
-Ứng dụng IOT giám sát nhiệt độ,độ ẩm và điều khiển thiết bị theo thời gian thực.
+Ứng dụng IOT giám sát nhiệt độ,độ ẩm và điều khiển thiết bị theo thời gian thực. Dự án được tôi thực hiện khi kết thúc khóa học ngoại khóa của khoa điện tử PTIT
 
 Trong thực tế khoa học công nghệ phát triển mạnh mẽ, nhu cầu của con người về các thiết bị thông minh hỗ trợ đời sống cũng ngày càng cao. Với mong muốn tạo nên được một sản phẩm giá thành rẻ có tính ứng dụng thực tiễn vào cuộc sống, vận dụng những kiến thức đã được học ở lớp ngoại khóa “Đồ án nhúng” tôi đã lên ý tưởng và thực hiện “ứng dụng IOT (Internet of Thing) giám sát nhiệt độ, khí gas và điều khiển thiết bị nhà ở”. Tôi hi vọng sản phẩm của ý tưởng này giúp ích được vào cuộc sống và truyền thêm động lực cho tôi trong quá trình học tập. 
 
