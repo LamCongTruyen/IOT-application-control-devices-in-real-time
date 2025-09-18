@@ -23,4 +23,4 @@ Giao diện ứng dụng điều khiển:
 ![image](https://github.com/user-attachments/assets/07b649ea-2e7e-47ac-aa97-f363bcf7e597)
 ![image](https://github.com/user-attachments/assets/7280a2aa-59f6-4226-af67-5c60366dd2f6)
 
-Tổng quan dự án có thể xem đầy đủ ở đường link sau: https://drive.google.com/drive/folders/1QL_kK87EN9d5eyBuhCm8NLX9yPFYJeKa
+Cảm ơn bạn đã xem!
